@@ -2,5 +2,6 @@ services:
   - type: web
     name: myntra-discovery-api
     env: python
+    plan: free
     buildCommand: "pip install -r src/phase5_dashboard/backend/requirements.txt"
     startCommand: "cd src/phase5_dashboard/backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
