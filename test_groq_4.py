@@ -1,0 +1,1 @@
+import os; from groq import Groq; client=Groq(api_key=os.environ['GROQ_API_KEY']); print(client.chat.completions.create(model='qwen/qwen3.8-27b', messages=[{'role': 'user', 'content': 'output json'}], response_format={'type': 'json_object'}).choices[0].message.content.encode('utf-8'))

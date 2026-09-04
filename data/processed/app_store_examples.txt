@@ -1,0 +1,17 @@
+Top Barriers:
+- color discrepancy between picture and received product causing confusion (1)
+- order cancellations and receiving wrong sizes (1)
+- Product marked as non‑returnable cash item and delayed return processing timeline (1)
+- Poor user experience including low image resolution, aggressive sponsored ads, intrusive click-to-play buttons, lack of direct brand navigation, missing categories, cumbersome search clearing (1)
+- price is a little expensive (1)
+
+Example (Barrier):
+Text: Colour, texture are gud, but the picture shown brown colour and I received light burgundy colour with same number. 
+Why you are using different light and selling the different colour people get confused.
+Barrier: color discrepancy between picture and received product causing confusion
+Inference: The user is experiencing confusion and frustration due to a mismatch between the product image and the actual item received, leading them to question the authenticity and accuracy of the product representation.
+
+Example (Workaround):
+Text: ‘This product is too good but please buy one size above than recommended.
+Workaround: Buy one size above the recommended size
+

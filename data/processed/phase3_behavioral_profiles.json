@@ -1,0 +1,220 @@
+{
+  "Wishlist Holders": [
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Products in wishlist are marked as not deliverable"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Item unable to deliver to available pincode"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Item out of stock"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Wishlist and bag limits prevent saving products for future purchase"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Poor user experience in the wishlist interface, including slow loading, lack of category filtering, and difficulty locating items due to excessive scrolling and out-of-stock items."
+    }
+  ],
+  "Price-Hesitant Shoppers": [
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Item out of stock"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "App downtime preventing access to wishlist and search"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Order cancellation by Myntra due to price increase"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Return fee policy"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Sudden price hike of 150 rupees in cart"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Order cancellation after booking at offer price and high price compared to other websites"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Price"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Convenience fee"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Exchange process requires buying a new item at a higher price than the original purchase"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Price increases on wishlisted items, confusing size charts, frequent sizing errors, unreliable delivery, wrong/defective orders, and product mismatch with app images"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Price inflation after adding to cart"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "300 convenience fee on returns"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Price discrepancy between app and delivered price"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Size unavailability initially, followed by a sudden decrease in discount and high VAT/tax costs"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Order cancellation by seller and price increase to original value"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Price fluctuation during exchange process"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Hidden courier charges, discrepancy between displayed best deal price and final bag price, inflated base prices with misleading discounts, and double taxation"
+    },
+    {
+      "source": "App Store",
+      "id": "unknown",
+      "barrier": "price (expensive)"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "No full refund on cancellation; discounted cost added to item cost"
+    }
+  ],
+  "Fit/Quality Uncertain Shoppers": [
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Product quality mismatch and poor quality"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Service quality, wrong sizes, damaged products, and poor return/exchange process"
+    },
+    {
+      "source": "App Store",
+      "id": "unknown",
+      "barrier": "order cancellations and receiving wrong sizes"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "tight fit"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Lack of size information for the top"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Inaccurate size measurements causing uncertainty about fit"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Unclear how to measure inseam length for proper fit"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "didn\u2019t know how to pick a size"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Uncertainty about correct size due to fit discrepancy"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Inaccurate size chart leading to incorrect fit"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "Uncertainty about correct jean size"
+    },
+    {
+      "source": "Myntra Web",
+      "id": "unknown",
+      "barrier": "low product quality (print quality, material, comfort)"
+    }
+  ],
+  "Availability-Constrained Shoppers": [
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Products in wishlist are marked as not deliverable"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Item unable to deliver to available pincode"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Item out of stock"
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Poor user experience in the wishlist interface, including slow loading, lack of category filtering, and difficulty locating items due to excessive scrolling and out-of-stock items."
+    },
+    {
+      "source": "Play Store",
+      "id": "unknown",
+      "barrier": "Slow delivery"
+    },
+    {
+      "source": "YouTube",
+      "id": "unknown",
+      "barrier": "product not delivered after payment (fraud)"
+    }
+  ]
+}

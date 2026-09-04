@@ -1,0 +1,1 @@
+import os; from groq import Groq; client=Groq(api_key=os.environ['GROQ_API_KEY']); prompt='A' * 6000; print(client.chat.completions.create(model='groq/compound', messages=[{'role': 'user', 'content': prompt}]).choices[0].message.content)

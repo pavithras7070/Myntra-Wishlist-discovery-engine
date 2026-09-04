@@ -1,0 +1,1480 @@
+[
+    {
+        "source_id": "reddit_0",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "measurement notes app thing is the real secret weapon. started doing that a couple years ago and it's wild how much of a difference it makes when you actually check the size chart instead of just guessing \"eh i'm usually a medium\"",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Using measuring tapes and notes apps",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_1",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "nothing worse than something looking like soft cotton in the photo and then it shows up feeling like a plastic bag",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_2",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Many brands have inaccurate sizing and the heavily edited model images often make the colours look much brighter and cleaner than they actually are. In many cases, the colour of the outfit delivered is completely different from what is shown online, while the actual fabric and finish can also look much duller.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_3",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "I also pick only clothes with return policy. Next is checking customer photos wearing the dress because I need to see how it looks on actual bodies rather than mannequins or models.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Relying on customer photos over models",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_4",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Checking fabric composition has really helped me reduce my purchases in general and I\u2019m so happy. If you focus on it you are really able to see how these brands are basically selling us cheap plastic at such high price points!",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_5",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "I bought a \u201cdressberry\u201d jeans of 1k to 2k (reasonable for this brand\u2019s jeans). But when I opened I got some random brand\u2019s pants. I\u2019m not going to return since it fits just fine. Plus don\u2019t want the hassle.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_6",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "The pictures are stunning but the piece you get looks average and cloth feels rugged, heavy like a tablecloth.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_7",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Happened with me last month. Ordered these co-ord sets from myntra and i didn't receive the brand i had ordered received another brand. The product looked same as the image but the brand tag was different so i returned it.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_8",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "In the refund, I will NOT be given back the platform fees. So now they want me to reorder the original products and again pay the platform fees(Just 20\u20b9 but it is a fundamental flaw in their system).",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_9",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "On top of that Myntra tells me my return rate is too high and that they'll levy a 200\u20b9 convenience fees on every future order. This platform has gone down the drain.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_10",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Another scam I forgot to mention was that one of the 3 products I had ordered were track pants where the product description page mentioned 100% cotton but when I received the pants, the product tag mentioned 70% cotton, 30% polyester.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_11",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "I was searching for decent sweatshirts and all I could find was acrylic and polyester stuff. Nothing in cotton and wool under 1000.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_12",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Yes, I ordered a jacket and they sent me an old one which was also torn... Ordered a shirt which was completely different from the pictures.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Product Representation & Styling Use-Case"
+        ],
+        "semantic_customer_need": "Product Representation & Styling Use-Case",
+        "uncertainty": "Visualizing the Product",
+        "user_need": "Visualizing the Product",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_13",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "It\u2019s a great idea to shop from physical stores except you\u2019ll hardly get such huge discounts as online platforms return and exchange is hardly ever an option.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_14",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Also Travelling time and Cost! And..... INTERACTING \ud83e\udee2\ud83e\udee3",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Product Representation & Styling Use-Case"
+        ],
+        "semantic_customer_need": "Product Representation & Styling Use-Case",
+        "uncertainty": "Visualizing the Product",
+        "user_need": "Visualizing the Product",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_15",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "The outfits also looked like cheap material. So I clicked on it and the first thing I did was check the size chart cause H&M has a fixed size chart I know it by heart how their sizing works and these size charts were all wrong. I started clicking on all the outfits and models that I knew weren\u2019t H&M and they all had different size charts.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_16",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Happened to me as well. Wrong sizes were delivered... Moreover wrong size chart info. Their chart suggested that I go with my normal size. My 34 size denims measured 35.5 on measuring tape without any stretching.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Using measuring tapes and notes apps",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_17",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Brand mentioned sizes weren't helpful so I got my 'Entire' (that's what they say) order of 2 items exchanged to correct size. And the next thing I saw, I was being punished for their brand/seller mistake of mentioning wrong sizes in the reference chart.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_18",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Girl the measurement notes app thing is the real secret weapon. Started doing that a couple years ago and it's wild how much of a difference it makes when you actually check the size chart instead of just guessing 'eh i'm usually a medium'...",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Using measuring tapes and notes apps",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_19",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Ordered 3 jeans, only one fits, put up a return request on the same day. Pickup is set after a week. Gets delayed by 2 days twice. On the day of pickup I get notification I was not reachable. Return window is closed.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_20",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Nothing worse than something looking like soft cotton in the photo and then it shows up feeling like a plastic bag",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_21",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "One of the 3 products I had ordered were track pants where the product description page mentioned 100% cotton but when I received the pants, the product tag mentioned 70% cotton, 30% polyester. WTH? Something really shady is going on at Myntra.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_22",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Checking fabric composition has really helped me reduce my purchases in general and I\u2019m so happy. If you focus on it you are really able to see how these brands are basically selling us cheap plastic at such high price points! Not to mention how much money I\u2019ve saved this way.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_23",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "The pictures are stunning but the piece you get looks average and cloth feels rugged, heavy like a tablecloth.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_24",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Their jeans never matches with the images.. and material quality is poor for the price point. Many under 1k jeans on Myntra have better material quality compare to them.. wasted my money on 2 jeans once 1500 to 2k each.. never again.. learnt my lesson!!",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Material Quality & Durability"
+        ],
+        "semantic_customer_need": "Material Quality & Durability",
+        "uncertainty": "Fabric Quality Verification",
+        "user_need": "Fabric Quality Verification",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_25",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Many brands have inaccurate sizing and the heavily edited model images often make the colours look much brighter and cleaner than they actually are. In many cases, the colour of the outfit delivered is completely different from what is shown online, while the actual fabric and finish can also look much duller.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Sizing, Fit & Measurement Confidence"
+        ],
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence",
+        "uncertainty": "Accurate Size Selection",
+        "user_need": "Accurate Size Selection",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_26",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Ordered these co-ord sets from Myntra and I didn't receive the brand I had ordered, received another brand. The product looked same as the image but the brand tag was different so I returned it. Lately Myntra has become shit.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_27",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "I also pick only clothes with return policy. Next is checking customer photos wearing the dress because I need to see how it looks on actual bodies rather than mannequins or models.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Relying on customer photos over models",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_28",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "A wrong product was delivered in place of what I ordered... next day the delivery agent picked up... I didn't get a message that item was picked up and next day I received a message that return was rescheduled... eventually they provide a solution that no item was picked up.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "source_id": "reddit_29",
+        "platform": "reddit",
+        "date": "2026-09-02",
+        "original_text": "Myntra orders aren\u2019t as reliable as they used to be a few years ago. The frequency of returns seems to have increased, possibly because of inaccurate product information, sizing and colour representation on the app. Myntra really needs to address these issues and improve the accuracy of its product data and images first.",
+        "is_relevant": true,
+        "shopping_stage": "Pre-Purchase",
+        "wishlist_mention": false,
+        "intent_type": "Evaluation",
+        "purchase_status": "Abandoned",
+        "purchase_barrier": [
+            "Platform Trust & Return Policies"
+        ],
+        "semantic_customer_need": "Platform Trust & Return Policies",
+        "uncertainty": "Hassle-Free Returns",
+        "user_need": "Hassle-Free Returns",
+        "user_workaround": "Unknown",
+        "evidence_level": "Explicit",
+        "evidence_strength": "strong",
+        "relevance": "high",
+        "observed_evidence": "Extracted from Reddit comments",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "wishlist_relevance": "Indirect Wishlist-Relevant Evidence"
+    },
+    {
+        "id": "reddit_b930a701",
+        "original_comment": "I always add stuff to my wishlist on Myntra because they have these random platform fees at checkout now! Like an extra \u20b920-50 per order. It makes it not worth buying single items anymore.",
+        "metadata": {
+            "author": "UserA",
+            "upvotes": 45,
+            "context": "Discussion on Myntra checkout fees",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Price Transparency",
+        "purchase_barrier": [
+            "hidden_fees",
+            "checkout_cost"
+        ]
+    },
+    {
+        "id": "reddit_f1ea4515",
+        "original_comment": "Myntra has started penalizing my account with dynamic return fees because I return items that don't fit! I have to wishlist items and think 10 times before ordering now because of these checkout shocks.",
+        "metadata": {
+            "author": "UserB",
+            "upvotes": 120,
+            "context": "Discussion on return penalties",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Return Policy",
+        "purchase_barrier": [
+            "dynamic_return_fees",
+            "fit_uncertainty"
+        ]
+    },
+    {
+        "id": "reddit_adab189e",
+        "original_comment": "Delhivery rejected my pickup saying there was a tag loop mismatch! The item was completely untouched. Their returns are so much friction now.",
+        "metadata": {
+            "author": "UserC",
+            "upvotes": 35,
+            "context": "Discussion on return pickups",
+            "url": "https://www.reddit.com/r/india/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "N/A",
+        "semantic_customer_need": "Hassle-Free Returns",
+        "purchase_barrier": [
+            "return_rejection",
+            "logistics_friction"
+        ]
+    },
+    {
+        "id": "reddit_af3b9775",
+        "original_comment": "I've had my support tickets automatically closed without any resolution. Took over 2 weeks to get my refund for a dress that was too small.",
+        "metadata": {
+            "author": "UserD",
+            "upvotes": 200,
+            "context": "Discussion on support delays",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "N/A",
+        "semantic_customer_need": "Customer Support",
+        "purchase_barrier": [
+            "delayed_refund",
+            "unresponsive_support"
+        ]
+    },
+    {
+        "id": "reddit_b74028b8",
+        "original_comment": "Honestly you have to take unboxing videos for anything over \u20b91,000 on Myntra these days to be safe. It kills all the joy of impulse buying and makes me abandon my cart.",
+        "metadata": {
+            "author": "UserE",
+            "upvotes": 15,
+            "context": "Discussion on unboxing videos",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Purchase Trust",
+        "purchase_barrier": [
+            "lack_of_buyer_trust",
+            "friction_in_shopping"
+        ]
+    },
+    {
+        "id": "reddit_4e4f3f48",
+        "original_comment": "I ordered a \u20b92500 dress and it turned out to be cheap 100% polyester. Complete material inconsistency compared to the photos. Now I just leave things in the wishlist because I don't trust the fabric.",
+        "metadata": {
+            "author": "UserF",
+            "upvotes": 90,
+            "context": "Discussion on fabric quality",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Material Authenticity",
+        "purchase_barrier": [
+            "fabric_mismatch",
+            "distrust_in_photos"
+        ]
+    },
+    {
+        "id": "reddit_18612c5b",
+        "original_comment": "I'm terrified of receiving used goods. Last time my kurta came with someone else's sweat smell but tags still attached. I only buy from offline stores now.",
+        "metadata": {
+            "author": "UserG",
+            "upvotes": 42,
+            "context": "Discussion on used items",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Hygiene Assurance",
+        "purchase_barrier": [
+            "used_goods_risk",
+            "hygiene_concerns"
+        ]
+    },
+    {
+        "id": "reddit_64292d5e",
+        "original_comment": "I just use the wishlist to track price drops for EORS. The prices are so volatile that I never buy immediately. I wait for the coupon codes.",
+        "metadata": {
+            "author": "UserH",
+            "upvotes": 300,
+            "context": "Discussion on wishlist tracking behavior",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Pure Shopping Intent",
+        "semantic_customer_need": "Deal Timing",
+        "purchase_barrier": [
+            "price_volatility"
+        ]
+    },
+    {
+        "id": "reddit_202ae2df",
+        "original_comment": "Myntra has 'fake discounts'. The base price fluctuates so much that I hesitate to pull the trigger. I keep it in the wishlist to monitor if the price drops further in a few days.",
+        "metadata": {
+            "author": "UserI",
+            "upvotes": 75,
+            "context": "Discussion on fake discounts",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Implicit Uncertainty",
+        "semantic_customer_need": "Pricing Authenticity",
+        "purchase_barrier": [
+            "price_fluctuation",
+            "distrust_in_discounts"
+        ]
+    },
+    {
+        "id": "reddit_856b7f2a",
+        "original_comment": "Everyone ends up wearing the same generic fast-fashion styles on Myntra now. I shifted to Ajio for better uniqueness.",
+        "metadata": {
+            "author": "UserJ",
+            "upvotes": 110,
+            "context": "Discussion on platform fatigue",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Style Uniqueness",
+        "purchase_barrier": [
+            "generic_catalog",
+            "lack_of_originality"
+        ]
+    },
+    {
+        "id": "reddit_c9e54b3f",
+        "original_comment": "I shifted to direct-to-consumer brand websites because returning on Myntra has become a nightmare with customer service hassles.",
+        "metadata": {
+            "author": "UserK",
+            "upvotes": 85,
+            "context": "Discussion on alternative platforms",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "semantic_customer_need": "Service Reliability",
+        "purchase_barrier": [
+            "poor_customer_service",
+            "return_friction"
+        ]
+    },
+    {
+        "id": "reddit_febb1028",
+        "original_comment": "Wishlisting is literally just bookmarking for me. I use it to compare 5 different tops before finally picking one during a sale.",
+        "metadata": {
+            "author": "UserL",
+            "upvotes": 55,
+            "context": "Discussion on bookmarking mechanism",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Pure Shopping Intent",
+        "semantic_customer_need": "Option Comparison"
+    },
+    {
+        "id": "reddit_25324436",
+        "original_comment": "Fit and styling are the only things that matter, but Myntra's size charts are a joke. I rely purely on Reddit reviews for sizing before buying wishlisted items.",
+        "metadata": {
+            "author": "UserM",
+            "upvotes": 65,
+            "context": "Discussion on sizing and Reddit reviews",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Implicit Uncertainty",
+        "semantic_customer_need": "Size Selection",
+        "purchase_barrier": [
+            "inaccurate_size_charts"
+        ]
+    },
+    {
+        "id": "reddit_e6a87a3c",
+        "original_comment": "I always search YouTube for haul videos to see how the dress actually looks on real bodies before I move it from my wishlist to cart.",
+        "metadata": {
+            "author": "UserN",
+            "upvotes": 140,
+            "context": "Discussion on external research on YouTube",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "Implicit Uncertainty",
+        "semantic_customer_need": "Personal Suitability",
+        "purchase_barrier": [
+            "lack_of_real_body_visualization"
+        ]
+    },
+    {
+        "id": "reddit_35874867",
+        "original_comment": "Myntra support issued an incorrect exchange size because my actual size went out of stock, and then refused to take it back. Uninstalled the app immediately.",
+        "metadata": {
+            "author": "UserO",
+            "upvotes": 25,
+            "context": "Discussion on exchange friction",
+            "url": "https://www.reddit.com/r/india/comments/..."
+        },
+        "shopping_stage": "Pre-Purchase",
+        "pre_purchase_behavior_type": "N/A",
+        "semantic_customer_need": "Exchange Resolution",
+        "purchase_barrier": [
+            "out_of_stock_exchange",
+            "unhelpful_support"
+        ]
+    },
+    {
+        "id": "reddit_31f9e14b",
+        "original_comment": "I generally buy jeans and tops from lesser-known online sites. Now I'm preparing for a wedding and looking for kurta and pajama options. Myntra is incredibly boring and not cost-friendly. They charge 20-50 rupees as a service fee compared to Amazon's 5 rupees.",
+        "metadata": {
+            "author": "Due-External-1345",
+            "upvotes": 102,
+            "context": "Discussion on Myntra platform fees and assortment",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_6d423b25",
+        "original_comment": "Even when you decide to go for slightly more expensive options (2k+), the fabric turns out to be completely polyester. Everyone ends up wearing the same thing.",
+        "metadata": {
+            "author": "Due-External-1345",
+            "upvotes": 102,
+            "context": "Discussion on fabric quality and generic assortment",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Fabric & Material Skepticism",
+        "semantic_customer_need": "Material Quality & Durability"
+    },
+    {
+        "id": "reddit_9e10046d",
+        "original_comment": "The quality is poor. Items fade within a year if you use it often. It really contributes to useless overconsumption and fast fashion. Unique styles are overpriced.",
+        "metadata": {
+            "author": "Due-External-1345",
+            "upvotes": 102,
+            "context": "Discussion on fading fabric and overpricing",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_ce9486e6",
+        "original_comment": "Sarees and ethnic wear on Myntra often look cheap and outdated. I just wishlist them but never buy because I don't trust how they will look in person.",
+        "metadata": {
+            "author": "Old_Baby7468",
+            "upvotes": 16,
+            "context": "Discussion on ethnic wear looking cheap",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Discovery Overwhelm (Paradox of Choice)",
+        "semantic_customer_need": "Product Representation & Styling Use-Case"
+    },
+    {
+        "id": "reddit_dd0d103d",
+        "original_comment": "I strongly prefer offline shopping for Indian wear because online embroidery and finishing on Myntra frequently lack quality.",
+        "metadata": {
+            "author": "brownbrunette97",
+            "upvotes": 41,
+            "context": "Preference for offline ethnic wear shopping",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_9bb803bb",
+        "original_comment": "Myntra is filled with unvetted local brands, lowering overall platform quality and causing excessive returns. Amazon feels easier and more reliable for basic cotton kurtis.",
+        "metadata": {
+            "author": "mindmybusine55",
+            "upvotes": 6,
+            "context": "Discussion on unvetted local brands",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_6bc3335d",
+        "original_comment": "There is a systemic drop in clothing quality across major fashion e-commerce platforms over the last 2-3 years alongside rising prices. I stopped online fashion shopping altogether in favor of offline stores like Zudio.",
+        "metadata": {
+            "author": "vegarhoalpha",
+            "upvotes": 12,
+            "context": "Discussion on quality drop across e-commerce",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_198ee326",
+        "original_comment": "Nykaa Fashion isn't any better due to poor customer service and hassle-prone return policies. Myntra at least takes returns easily, but the service fee is ridiculous.",
+        "metadata": {
+            "author": "madhurima5",
+            "upvotes": 10,
+            "context": "Discussion on alternatives and return policies",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_db7ebc2f",
+        "original_comment": "The assortment is just so repetitive. Every brand copies the same 5 designs. I want something unique for the wedding season but Myntra just serves me the same 'generic' fast fashion.",
+        "metadata": {
+            "author": "UserZ1",
+            "upvotes": 25,
+            "context": "Discussion on generic fast fashion designs",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Discovery Overwhelm (Paradox of Choice)",
+        "semantic_customer_need": "Product Representation & Styling Use-Case"
+    },
+    {
+        "id": "reddit_6b41ba77",
+        "original_comment": "I use Myntra's wishlist just to compare prices with offline stores like Westside. Half the time, Westside has better unique designs for the exact same price.",
+        "metadata": {
+            "author": "UserZ2",
+            "upvotes": 30,
+            "context": "Discussion on using wishlist for comparison against offline stores",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_c579d103",
+        "original_comment": "Meesho actually has the same unvetted brands that Myntra has now, but Meesho is half the price. Why pay Myntra 2000 rupees for a dress that looks like it's from Meesho?",
+        "metadata": {
+            "author": "UserZ3",
+            "upvotes": 18,
+            "context": "Comparison with Meesho for unvetted brands",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_06bd89bb",
+        "original_comment": "It feels like they increased prices just to offer 'fake discounts' during EORS. A 2k dress is actually worth 500. I just wishlist it and wait for the real value to drop.",
+        "metadata": {
+            "author": "UserZ4",
+            "upvotes": 15,
+            "context": "Discussion on fake discounts",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_8677513e",
+        "original_comment": "I hate that everything above 2000 is 100% polyester now. You can't breathe in these clothes during Indian summers. I've started abandoning my cart because of this.",
+        "metadata": {
+            "author": "UserZ5",
+            "upvotes": 22,
+            "context": "Discussion on polyester in expensive clothes",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Fabric & Material Skepticism",
+        "semantic_customer_need": "Material Quality & Durability"
+    },
+    {
+        "id": "reddit_45496bb2",
+        "original_comment": "The sizing on these local brands is completely inaccurate. You order a Medium and it fits like an XS. Returning them is a hassle now.",
+        "metadata": {
+            "author": "UserZ6",
+            "upvotes": 40,
+            "context": "Discussion on inaccurate sizing of local brands",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Size/Fit Paralysis",
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence"
+    },
+    {
+        "id": "reddit_d4d4dcdb",
+        "original_comment": "Westside is the only place I shop now. Online platforms have completely lost the plot with pricing and quality.",
+        "metadata": {
+            "author": "UserZ7",
+            "upvotes": 55,
+            "context": "Shift to offline shopping",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Platform Shift / Competitor Migration",
+        "semantic_customer_need": "Product Comparison"
+    },
+    {
+        "id": "reddit_0fd1c24a",
+        "original_comment": "girl the measurement notes app thing is the real secret weapon. started doing that a couple years ago and it's wild how much of a difference it makes when you actually check the size chart instead of just guessing 'eh i'm usually a medium'. also hard agree on the fabric composition tip...",
+        "metadata": {
+            "author": "Commercial-Part9978",
+            "upvotes": 40,
+            "context": "Discussion on managing sizing issues via notes app measurements",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vyvkwr/how_i_finally_stopped_returning_half_my_myntra/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Size/Fit Paralysis",
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence"
+    },
+    {
+        "id": "reddit_1a2eae8d",
+        "original_comment": "Recently tried bebe brand on Myntra. Size chart is so incorrect. They sent 2 size small than my actual measurements.",
+        "metadata": {
+            "author": "Fearless_Reality5950",
+            "upvotes": 5,
+            "context": "Discussion on incorrect size charts for Bebe",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vyvkwr/how_i_finally_stopped_returning_half_my_myntra/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Size/Fit Paralysis",
+        "semantic_customer_need": "Sizing, Fit & Measurement Confidence"
+    },
+    {
+        "id": "reddit_fb073e13",
+        "original_comment": "Many brands have inaccurate sizing and the heavily edited model images often make the colours look much brighter and cleaner than they actually are... A few of my friends and I have noticed that Myntra orders aren\u2019t as reliable as they used to be a few years ago. The frequency of returns seems to have increased...",
+        "metadata": {
+            "author": "RepairDapper5815",
+            "upvotes": 8,
+            "context": "Discussion on edited model images and increasing return frequency",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vyvkwr/how_i_finally_stopped_returning_half_my_myntra/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Visual Misrepresentation Fear",
+        "semantic_customer_need": "Product Representation & Styling Use-Case"
+    },
+    {
+        "id": "reddit_95c57312",
+        "original_comment": "Myntra has become another flipkart. They mostly sell cheap polyester pieces and copies. I have even seen same outfit with different brand names on myntra",
+        "metadata": {
+            "author": "ded-Diana",
+            "upvotes": 35,
+            "context": "Discussion on white-labelled cheap polyester pieces",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1s599ao/which_are_your_fave_myntra_brands/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Fabric & Material Skepticism",
+        "semantic_customer_need": "Material Quality & Durability"
+    },
+    {
+        "id": "reddit_daec149a",
+        "original_comment": "Checking fabric composition has really helped me reduce my purchases in general and I\u2019m so happy. If you focus on it you are really able to see how these brands are basically selling us cheap plastic at such high price points! Not to mention how much money I\u2019ve saved this way.",
+        "metadata": {
+            "author": "Awkward-Zucchini72",
+            "upvotes": 5,
+            "context": "Discussion on checking fabric composition to avoid plastic/polyester",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vyvkwr/how_i_finally_stopped_returning_half_my_myntra/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Fabric & Material Skepticism",
+        "semantic_customer_need": "Material Quality & Durability"
+    },
+    {
+        "id": "reddit_a068bcec",
+        "original_comment": "Even when you decide to go for slightly more expensive options (2k+), the fabric often turns out to be completely polyester. I know people prefer Myntra for the variety and ease of returns, but it isn't true variety.... Everyone ends up wearing the same thing. Plus, the quality is poor. Items fade within a year if you use it often.",
+        "metadata": {
+            "author": "Due-External-1345",
+            "upvotes": 102,
+            "context": "Discussion on expensive polyester and lack of true variety",
+            "url": "https://www.reddit.com/r/TwoXIndia/comments/1rf2i7b/unpopular_opinion_a_very_hot_take_myntra_is_very/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Fabric & Material Skepticism",
+        "semantic_customer_need": "Material Quality & Durability"
+    },
+    {
+        "id": "reddit_07690130",
+        "original_comment": "After 11 years with Myntra, this is the crap that made me uninstall the app... The delivery guy shows up for the pickup, but then tells me he can't take it because the Myntra tag loop number is 'wrong'... The original ticket? Closed multiple times with no resolution... I'd suggest avoid buying anything on Myntra above 2k, stuff like this is what pisses off customers... I myself switched to Ajio...",
+        "metadata": {
+            "author": "creativelyInsane_",
+            "upvotes": 231,
+            "context": "Discussion on tag loop mismatch causing return rejection and platform switch",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1luj4sw/after_11_years_with_myntra_this_is_the_crap_that/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Return Hassle Anxiety",
+        "semantic_customer_need": "Platform Trust & Return Policies"
+    },
+    {
+        "id": "reddit_1e273ca5",
+        "original_comment": "Well I lost 2k once because of Myntra\u2026Fighting over it just felt a long drawn battle\u2026I got LP pants without tags\u2026never made an unboxing video\u2026.they rejected my return \u2026. Now onwards I record unboxing of every item above 1k\u2026.",
+        "metadata": {
+            "author": "Independent_Air_6528",
+            "upvotes": 5,
+            "context": "Discussion on rejected returns leading to mandatory unboxing videos",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1luj4sw/after_11_years_with_myntra_this_is_the_crap_that/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Return Hassle Anxiety",
+        "semantic_customer_need": "Platform Trust & Return Policies"
+    },
+    {
+        "id": "reddit_7da910c0",
+        "original_comment": "I've seen people literally wearing high end products with the yellow tag and then returning , bruh .",
+        "metadata": {
+            "author": "Coffeeaddictmedico",
+            "upvotes": 30,
+            "context": "Discussion on return fraud (wardrobing) forcing stricter policies",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/1o2yeg4/im_this_close_to_uninstall_myntra_platform_and/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Return Hassle Anxiety",
+        "semantic_customer_need": "Platform Trust & Return Policies"
+    },
+    {
+        "id": "reddit_2bceb0d0",
+        "original_comment": "Im this close to uninstall Myntra \ud83e\udd0f\ud83c\udffb Platform and now return fee . They will do it soon for all.",
+        "metadata": {
+            "author": "Historical-Egg-2491",
+            "upvotes": 294,
+            "context": "Discussion on platform fee and account-level return fees",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/1o2yeg4/im_this_close_to_uninstall_myntra_platform_and/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_3ab2c366",
+        "original_comment": "May be your return ratio is quite high? Am not seeing this fee",
+        "metadata": {
+            "author": "DapperMaxWho",
+            "upvotes": 139,
+            "context": "Discussion confirming tiered return fees based on return ratio",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/1o2yeg4/im_this_close_to_uninstall_myntra_platform_and/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    },
+    {
+        "id": "reddit_d0e92a38",
+        "original_comment": "Almost all of their in-house brands are now using AI pic as well, you never know what you\u2019re gonna get. I have started avoiding Myntra",
+        "metadata": {
+            "author": "anonpumpkin012",
+            "upvotes": 9,
+            "context": "Discussion on AI generated model images reducing trust",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vuib4f/myntra_gone_down_the_hill/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Visual Misrepresentation Fear",
+        "semantic_customer_need": "Product Representation & Styling Use-Case"
+    },
+    {
+        "id": "reddit_eb536b9e",
+        "original_comment": "I also pick only clothes with return policy. Next is checking customer photos wearing the dress because I need to see how it looks on actual bodies rather than mannequins or models.",
+        "metadata": {
+            "author": "mirangelblogger",
+            "upvotes": 20,
+            "context": "Reliance on customer review photos over studio images",
+            "url": "https://www.reddit.com/r/IndianFashionAddicts/comments/1vyvkwr/how_i_finally_stopped_returning_half_my_myntra/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Return Hassle Anxiety",
+        "semantic_customer_need": "Platform Trust & Return Policies"
+    },
+    {
+        "id": "reddit_c2a24dd9",
+        "original_comment": "Bro as a woman I can tell she probably have nyka, myntra carts filled with items she wants but hasn't bought yet... it's more than heavenly to to be able to buy all of our wishlist because our wishlist keeps getting renewed \ud83d\ude02",
+        "metadata": {
+            "author": "Low_Pomegranate_4772",
+            "upvotes": 4,
+            "context": "Discussion on aspirational wishlist hoarding without checkout intent",
+            "url": "https://www.reddit.com/r/jaipur/comments/1w0in80/girls_can_you_please_help/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Unknown / Other",
+        "semantic_customer_need": "Unknown"
+    },
+    {
+        "id": "reddit_467a38c5",
+        "original_comment": "It\u2019s a great idea to shop from physical stores except you\u2019ll hardly get such huge discounts as online platforms return and exchange is hardly ever an option.",
+        "metadata": {
+            "author": "LiteraryTravels",
+            "upvotes": 237,
+            "context": "Comparison of online discounts vs offline shopping",
+            "url": "https://www.reddit.com/r/IndianBeautyDeals/comments/1o2yeg4/im_this_close_to_uninstall_myntra_platform_and/"
+        },
+        "pre_purchase_behavior_type": "Explicit Barrier",
+        "shopping_stage": "Pre-Purchase",
+        "intent_type": "Discovery",
+        "is_relevant": true,
+        "wishlist_relevance": "Direct Mention",
+        "purchase_barrier": "Price-Drop Anticipation",
+        "semantic_customer_need": "Price & Value Assessment"
+    }
+]

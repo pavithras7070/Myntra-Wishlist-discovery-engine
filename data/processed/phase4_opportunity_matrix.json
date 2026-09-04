@@ -1,0 +1,172 @@
+{
+    "opportunities": [
+        {
+            "opportunity_id": "opp_004_return h",
+            "opportunity_name": "Platform Trust Solution",
+            "user_need": "Users need to overcome Return Hassle Anxiety to confidently purchase.",
+            "affected_segments": [
+                "seg_4_trust"
+            ],
+            "journey_stage": [
+                "Purchase Confidence"
+            ],
+            "evidence_count": 18,
+            "frequency_score": 0.7,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 9.0,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.9,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to Purchase Confidence",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        },
+        {
+            "opportunity_id": "opp_005_occasion",
+            "opportunity_name": "Representation & Accuracy Solution",
+            "user_need": "Users need to overcome Occasion Matching & Wardrobe Coordination to confidently purchase.",
+            "affected_segments": [
+                "seg_5_&"
+            ],
+            "journey_stage": [
+                "General Consideration"
+            ],
+            "evidence_count": 15,
+            "frequency_score": 0.6,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 7.5,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.73,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to General Consideration",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        },
+        {
+            "opportunity_id": "opp_006_price-dr",
+            "opportunity_name": "Price & Value Solution",
+            "user_need": "Users need to overcome Price-Drop Anticipation to confidently purchase.",
+            "affected_segments": [
+                "seg_6_&"
+            ],
+            "journey_stage": [
+                "Add to Cart"
+            ],
+            "evidence_count": 15,
+            "frequency_score": 0.6,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 6.0,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.58,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to Add to Cart",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        },
+        {
+            "opportunity_id": "opp_002_fabric &",
+            "opportunity_name": "Quality & Durability Solution",
+            "user_need": "Users need to overcome Fabric & Material Skepticism to confidently purchase.",
+            "affected_segments": [
+                "seg_2_&"
+            ],
+            "journey_stage": [
+                "Product Re-evaluation"
+            ],
+            "evidence_count": 32,
+            "frequency_score": 1.2,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 4.5,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.53,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to Product Re-evaluation",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        },
+        {
+            "opportunity_id": "opp_001_price-dr",
+            "opportunity_name": "Sizing & Fit Solution",
+            "user_need": "Users need to overcome Price-Drop Anticipation to confidently purchase.",
+            "affected_segments": [
+                "seg_1_&"
+            ],
+            "journey_stage": [
+                "General Consideration"
+            ],
+            "evidence_count": 43,
+            "frequency_score": 1.6,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 2.0,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.34,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to General Consideration",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        },
+        {
+            "opportunity_id": "opp_003_checkout",
+            "opportunity_name": "Styling & Comparison Solution",
+            "user_need": "Users need to overcome Checkout / App Friction to confidently purchase.",
+            "affected_segments": [
+                "seg_3_&"
+            ],
+            "journey_stage": [
+                "Wishlist Revisit"
+            ],
+            "evidence_count": 19,
+            "frequency_score": 0.7,
+            "severity_score": 7.5,
+            "purchase_relevance_score": 8.0,
+            "intent_relevance_score": 8.0,
+            "workaround_effort_score": 7.0,
+            "product_leverage_score": 3.0,
+            "evidence_strength_score": 8.5,
+            "overall_opportunity_score": 6.31,
+            "existing_workarounds": [
+                "searching for soft material",
+                "Ordered two more units in different colours to test durability and followed washing protocol",
+                "Keep the item in the wishlist to wait for restock"
+            ],
+            "leading_behavioral_metric": "Track user conversion drop-off connected to Wishlist Revisit",
+            "confidence": 0.85,
+            "hypothesis_level": "Level 2: AI-Generated Hypothesis"
+        }
+    ]
+}

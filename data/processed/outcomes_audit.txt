@@ -1,0 +1,200 @@
+Total Outcomes Inferred: 33
+
+--- Case 1 ---
+Text: I had ordered for a sweatshirt sized S. And i recieved a large sized sweatshirt. And above all that, the product did not carry a price tag on it. And now due to size issues when i am trying to return it, they are repeatedly declining my request saying that their quality check has failed. At first they will send u products without a price tag and if by chance u need to return the product, then ur completely HELPLESS. They don't accept their own mistake and make their customers suffer and REGRET.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user’s frustration stems from a mismatch between the ordered and received product, compounded by a lack of price information and a return process that appears to reject legitimate return requests. The user perceives the company’s return policy as inflexible and unresponsive to errors on the company’s part.
+
+--- Case 2 ---
+Text: Me and my parents use myntra quite often but recently when I ordered 2 products 1 product was only delivered and they are neither refunding the money nor delivering the product and also the issue has not gotten resolved.Worst experience. The customer care is not helpful at all!!!! When we tell to raise a complaint regarding the same they put something else only. Never ordering again.Would give zero stars if possible
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing frustration due to a missing item and lack of resolution from customer support, leading to a negative perception of the service.
+
+--- Case 3 ---
+Text: Extremely disappointing experience with Myntra! I ordered a pair of shoes in size 8, but they sent size 9 instead. When I initiated a return due to their mistake, they charged me a return fee! Why should I pay for their error? This is unacceptable and shows a lack of professionalism. It’s the last time I’ll trust Myntra for online shopping. Highly dissatisfied!"never ever shopping from myntra if there is possible of 0 star I had to give zero stars.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user perceives the return fee as unjust because the mistake was made by the seller, leading to frustration and a strong negative sentiment toward the brand.
+
+--- Case 4 ---
+Text: The worst experience ever.. Delay in delivery, wrong size delivered. I have placed exchange same product delivered instead of exchange. Delay in return acceptance, no update regarding return pickup even after promised date.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing multiple failures in the order fulfillment and return processes, leading to frustration and a perception of poor service.
+
+--- Case 5 ---
+Text: Plenty of quality choices to select from • Appropriate search filtering options helping narrow the list of choices • UI / UX (user experience is nice, pleasant and intuitive) • Delivery and Return (including refund) has been hassle free for me till now. I've never shopped so much in clothing as I have since a year ago. 😁 Wish there was a chat / email support apart from the call support.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: User perceives the lack of chat/email support as a barrier to efficient assistance.
+
+--- Case 6 ---
+Text: I like using Myntra because the app is simple and the product range is impressive. The quality of items I received has been good and the prices during sale events are quite reasonable. Definitely a convenient app for online fashion shopping. i have not given 4 stars just because sometimes I'm facing some issues like the seller not being shipped at this pincode
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing frustration because certain sellers on the platform are unable to deliver to their location, leading to a negative perception of the app’s reliability for that specific scenario.
+
+--- Case 7 ---
+Text: the jeans are well fitting and true to size,I love them..they length is just a little bit long but that makes them even more beautiful
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 8 ---
+Text: You can have as many products as possible but if you show misleading information to customers, you deserve one star. Made a payment of 15000 with a coupon showing 1000 rebate on credit and debit cards. Post payment, customer care told it is not available on debit cards. Customer care didn't do anything other than saying sorry. Edit: Below response seems to be an automated one since nothing happened on the issue despite mailing. Moreover, another issue with missing product also not resolved
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user perceives the coupon information as misleading because the rebate was not applied to debit cards as advertised, and feels that customer support has been unhelpful and possibly automated. The unresolved missing product issue adds to the user's frustration.
+
+--- Case 9 ---
+Text: I have been ordering things from myntra for many years now, this is the 2nd time that I'm getting the wrong item and when ask for exchange they are not accepting saying that it is not the item, this is very wrong.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing a mismatch between the ordered product and the delivered product, and the support response has not resolved the issue, leading to frustration.
+
+--- Case 10 ---
+Text: Got size M, fits well. The material is a thicker than a normal tshirt but still is breathable and comfortable. An easy grab for everyday wear
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 11 ---
+Text: The app with the worst replacement and returnable policy . Its shows 14 days return or exchange but it never returns . I ordered an shoes apparently , I got bigger size and now its been a month I have been begging them to replace it with another size but they Did not saying you cancelled for the replacement even I didn't . My query was resolved even I didn't end up the conversation . I mean without even your concern , your query is closed . Thats so rude . Also , the packaging its just 1star .
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing frustration due to a lack of responsiveness from the support team and a perceived failure of the replacement process. The user feels that the system incorrectly cancelled their replacement request and that the support team closed the issue prematurely, leading to a negative perception of the app’s customer service and return policy.
+
+--- Case 12 ---
+Text: Very bad experience in end of reason sale. Out of 5 orders 2 were completely wrong orders delivered. Return request kept for wrong product delivered but request got rejected. I did not get what i ordered, did not get refund and am stuck with 2 wrong products. Customer service is also not at all helpful they just decided that every order was correctly delivered and no refund will be given.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing significant frustration and dissatisfaction due to receiving incorrect merchandise, a failed return process, and unhelpful customer service that denied both the return and refund.
+
+--- Case 13 ---
+Text: Very good productquality. I am very happy to shopping with myntra.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 14 ---
+Text: Very beautiful with excellent fabric quality. The material is soft, comfortable, and feels premium. The fitting is perfect, and the color looks exactly as shown in the pictures. Overall, a great purchase and worth the price. ❤️
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 15 ---
+Text: This is the kind of shopping app that takes a full 20 days to deliver a single order. I already know they'll come up with some excuse. But when other shopping apps usually deliver within a week at most, 20 days is just too long. On top of that, their customer support doesn't even respond properly.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is expressing frustration and disappointment with the app’s delivery speed and support responsiveness, indicating a negative experience that may deter them from completing a purchase.
+
+--- Case 16 ---
+Text: Myntra is a Cheat! Such a fraudulent shopping app. It shows items which aren't available when looked for. Myntra didn't refund me when i returned the item due to lack of time in receiving the delivery. Myntra emailed me that they will refund me but they never did. This app is run by Cheater. This company only loots people. Very bad experience.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user’s return was processed by the system but the subsequent refund was not issued, leading to frustration and a perception of fraudulent behavior.
+
+--- Case 17 ---
+Text: worst shopping app 6 orders me 5 cancel ho gye and only 1 receive hua , very show app
+Status: abandoned
+Evidence Level: Explicit
+AI Inference: The user is experiencing frequent order cancellations, indicating a problem with order processing or inventory handling within the app.
+
+--- Case 18 ---
+Text: Worst experience ever. I have been a regular customer of Myntra, but a very big scam happened to me. I ordered a Levi's long pant and shirt on prepaid. The delivery agent did not call me, and I did not receive any email. But it is showing “delivered” in my account. I called customer care many times, but they only keep giving me new time and dates. Until today, I have not received my items. At least they should tell me which delivery office the parcel went to. This is a very big scam with me..
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing a mismatch between the app’s delivery status and the actual receipt of goods, indicating a communication or tracking failure. The repeated lack of updates from both the delivery agent and customer support suggests a systemic issue in the delivery or notification process.
+
+--- Case 19 ---
+Text: send low quality clothes at a time of return do not receive call or call you send me do not order anything from myntra
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing dissatisfaction with product quality and feels that the return process lacks adequate communication or follow‑up from the company.
+
+--- Case 20 ---
+Text: Deleted the account from this app. 👍 Orders get cancelled on there own. I'm charged 33 rs for each of my orders. Customer service is useless, they never help. You guys don't want customer, so customer is withdrawing as you want. 👍
+Status: abandoned
+Evidence Level: Explicit
+AI Inference: The user is experiencing frustration due to unexpected order cancellations and charges, coupled with a perception that customer support is ineffective, leading to a sense of abandonment.
+
+--- Case 21 ---
+Text: excellent app and orderd many product also 👍
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 22 ---
+Text: "I have ordered one product, however, the quality does not meet expectations. product does not match the color shown in the images, and there is no option available for color exchange (haven't mentioned in the product). size changes is available with no return. I kindly request you to look into this matter. I have already contacted customer support but have not received a satisfactory response. Very bad experience i have with this, don't get support for this.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is frustrated and feels that the product quality and support services are inadequate, leading to a negative perception of the brand.
+
+--- Case 23 ---
+Text: After collecting the items from me, I am getting the same msg again and again that the pickup is unsuccessful I don't understand why myntra is doing such idiotic as well as cheap things. I have already registered a complaint on customer support but again the same thing is happening. It is very disgusting and embarrassing that despite of my return of items the pickup boys are being sent to me to recover the items which have already been handed over long back.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing a persistent notification of pickup failure despite the return having been completed, and the system is repeatedly sending pickup staff to retrieve items that no longer exist in the return queue.
+
+--- Case 24 ---
+Text: Very good app and good quality of products and prices also. I m buying from.mynta since long almost 5 year , and still first choice is Myntra using this app almosy more than 7 year, very excellent app with hassel free returnS
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 25 ---
+Text: Myntra is getting worst now. Seriously I'm shopping from myntra from many years but now the service is getting worst they send wrong product and then they don't exchange it or return it . Even the customer care service is too bad . Switching to another app .
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user perceives a decline in service quality, specifically in order fulfillment accuracy and post-purchase support, which is causing dissatisfaction and prompting consideration of alternative platforms.
+
+--- Case 26 ---
+Text: Usually I really like my shopping experience from Myntra. I have been shopping from Myntra for more than 5 years now. But in a recent purchase first of all I received a product with missing items and the issue wasn't resolved. Then the product has holes in just 2 month, seems like it is a duplicate product. I am highly disappointed this time.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user experienced multiple product quality failures and a lack of resolution from customer support, leading to frustration and disappointment with the brand.
+
+--- Case 27 ---
+Text: myntra is best app for shopping because they have zero problem on their app also zero payment processing problem i bought from many time on Flipkart and I face the problem payment cut from my account and the order failed and I want wait 2 days for payment that was I chose myntra It was very good platform
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 28 ---
+Text: This app is not fully good. I got some damaged clothe items and when I put it in review they removed it. If u want to put everything good about a product then, what is the need to give a review? Also, there is no pure discount in products as some similar items are available in lower cost in shops & other apps. The MRP price of Myntra items are too high, even a top is shown 3k whereas the quality doesn't agree with the price. Please look into the quality and give a proper MRP.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing multiple negative touchpoints: product quality issues, perceived unfair pricing, and a restrictive review policy that removes feedback. These factors combine to create a sense of distrust toward the brand and its pricing strategy.
+
+--- Case 29 ---
+Text: "Absolutely loved shopping from Myntra! ❤️ The product was 100% genuine, exactly as shown in the pictures, and the quality exceeded my expectations. Delivery was quick, packaging was neat and secure, and the overall shopping experience was smooth and hassle-free. 🥰✨ Thank you, Myntra, for always providing authentic products and great service. Highly recommended to everyone! Will definitely shop again. 💖🛍️
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+
+--- Case 30 ---
+Text: I haven't receive my order and my status has shown delivered... I have made complaint 3-4 days ago and there is no updates... Please solve the issue ASAP and give me updates... UPDATE: Now I got call from your customer service and couldn't solve any issues regarding my order.... Very disappointed and dissatisfied with the way they don't try to solve or look into it
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user is experiencing frustration due to a mismatch between the order status and actual delivery, compounded by a lack of timely communication and ineffective customer service interaction.
+
+--- Case 31 ---
+Text: very very worst service two two times I order item it's automatically geting cancelling item i order 999 product and it's now 1350 fr that reason they are doing cancel and why they should leave offer close myntra app and they can go
+Status: abandoned
+Evidence Level: Explicit
+AI Inference: The user perceives the app’s cancellation behavior as unfair and is attributing it to a price change, indicating a lack of trust in the service and a negative user experience.
+
+--- Case 32 ---
+Text: i placed return request on 24. item was to be picked by 26th. but not picked up till 2nd jan. i called them multiple times they are just taking complaint over complaint & saying me to wait. I'm in big trouble here. i don't think item will be picked up. it is just a matter of time my time frame for return will expire. i can do nothing. Guys this is worst shopping site. better go with Amazon, rates are almost same but reliability of Amazon is much higher than this cheap Myntra.
+Status: purchased
+Evidence Level: Explicit
+AI Inference: The user perceives a failure in the return pickup process and feels that support is not effectively addressing the issue. The delay and lack of clear communication are causing anxiety about missing the return deadline and damaging trust in the platform.
+
+--- Case 33 ---
+Text: my experience is very nice and useful product purchase for me thank you from Myntra
+Status: purchased
+Evidence Level: Explicit
+AI Inference: Unknown
+

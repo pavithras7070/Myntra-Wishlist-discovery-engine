@@ -1,0 +1,13 @@
+--- REPORT ---
+Total: 113, Relevant: 92
+Stages: {'Unknown': 56, 'Purchase': 16, 'Product Evaluation': 18, 'Consideration': 1, 'Discovery': 1}
+Wishlist Mentions: 0
+Workarounds: 1
+Intents Inferred: 2
+Evidence: {'Unknown': 44, 'Explicit': 43, 'Weakly Implied': 4, 'Strongly Implied': 1}
+Top Barriers:
+- Color discrepancy between image and received product (1)
+- order cancellations and receiving wrong sizes (1)
+- product marked as non‑returnable and delayed return processing (1)
+- price (expensive) (1)
+- Difficulty finding wool or pure cotton fabrics due to market saturation of polyester fabrics (1)

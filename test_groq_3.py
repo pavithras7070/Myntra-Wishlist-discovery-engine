@@ -1,0 +1,1 @@
+import os; from groq import Groq; client=Groq(api_key=os.environ['GROQ_API_KEY']); prompt='A' * 20000; print(client.chat.completions.create(model='qwen/qwen3.8-27b', messages=[{'role': 'user', 'content': prompt}]).choices[0].message.content)

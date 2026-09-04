@@ -1,0 +1,29 @@
+Total Outcomes: 33
+Explicitly Stated Outcomes: 30 (90.9%)
+AI-Inferred Outcomes: 3 (9.1%)
+
+Unsupported / Misclassified Inferences:
+- Text: the jeans are well fitting and true to size,I love them..they length is just a little bit long but that makes them even more beautiful
+  Status: purchased
+  Reason: No explicit purchase keywords found in text.
+
+- Text: You can have as many products as possible but if you show misleading information to customers, you deserve one star. Made a payment of 15000 with a coupon showing 1000 rebate on credit and debit cards. Post payment, customer care told it is not available on debit cards. Customer care didn't do anything other than saying sorry. Edit: Below response seems to be an automated one since nothing happened on the issue despite mailing. Moreover, another issue with missing product also not resolved
+  Status: purchased
+  Reason: No explicit purchase keywords found in text.
+
+- Text: Very good productquality. I am very happy to shopping with myntra.
+  Status: purchased
+  Reason: No explicit purchase keywords found in text.
+
+- Text: worst shopping app 6 orders me 5 cancel ho gye and only 1 receive hua , very show app
+  Status: abandoned
+  Reason: AI inferred user abandoned, but text says system cancelled the order.
+
+- Text: Deleted the account from this app. 👍 Orders get cancelled on there own. I'm charged 33 rs for each of my orders. Customer service is useless, they never help. You guys don't want customer, so customer is withdrawing as you want. 👍
+  Status: abandoned
+  Reason: AI inferred user abandoned, but text says system cancelled the order.
+
+- Text: very very worst service two two times I order item it's automatically geting cancelling item i order 999 product and it's now 1350 fr that reason they are doing cancel and why they should leave offer close myntra app and they can go
+  Status: abandoned
+  Reason: AI inferred user abandoned, but text says system cancelled the order.
+

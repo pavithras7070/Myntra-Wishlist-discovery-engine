@@ -1,0 +1,38 @@
+{
+    "total_available": 932,
+    "sample_size": 100,
+    "categories": {
+        "Clearly Relevant": 46,
+        "Potentially Relevant": 6,
+        "Irrelevant / Noise": 48
+    },
+    "evidence_types": {
+        "Quality/Material": 6,
+        "Information seeking (Links/Where to buy)": 22,
+        "Price/Value": 3,
+        "Size/Fit": 5
+    },
+    "examples": {
+        "Clearly Relevant": [
+            "It is very very difficult to get refund from Myntra. So be careful before purchasing. I am suffering for last 12 days.",
+            "Online shoppers, beware! Myntra company is a complete fraud. We ordered a Havells BLDC fan, but instead, we received an old Khaitan fan. The company scammed me out of ₹2,607; they refused to issue a refund. Myntra is running its business by scamming customers out of their money.",
+            "Myntra is best. Good quality dealer",
+            "Di please Link share kr dijiye n",
+            "Ajio ka quality kaisa h"
+        ],
+        "Potentially Relevant": [
+            "Trouser \n2800\nShirt 800\nShoes 800\n\n\nTotal 4600",
+            "Very good video. Thanks",
+            "Jeans aur thoda slim karao . Haddio mai touch hona chahiye ❤",
+            "I was built with that badonkadonk and wide hips like my momma not these skinny boys so jeans always been a struggle for me…",
+            "Plz recommend tops for chubby people"
+        ],
+        "Irrelevant / Noise": [
+            "Profuse thanks ,,Bro for showing us the differences between them .It will really help me .♥️♥️♥️💯💯💯😃😃😃",
+            "🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🫂🤜🏼🤛🏼🤜🏼🤛🏼",
+            "സാധാരണക്കാർക്ക് meesho best bt പൈസക്കാർക്ക് meesho local 😂",
+            "None of the above n please fix ur side maang 😂",
+            "Equal"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "key_customer_problems": [
+        {
+            "problem_name": "Size & Fit Friction",
+            "description": "Shoppers struggle to predict accurate sizing and fit for apparel items in their wishlist. Generic size charts create ambiguity regarding body measurements vs. garment dimensions, causing users to stall and hesitate at the wishlist stage rather than converting to cart.",
+            "primary_workaround_used": "Manually taking personal body measurements using measuring tapes and manually measuring existing owned pants/garments to compare numbers.",
+            "severity_ranking": "High"
+        },
+        {
+            "problem_name": "Product Material & Visual Representation Gap",
+            "description": "Wishlist items lack sufficient detail regarding fabric texture, weight, print fidelity, and true color representation. Because online photos often feel heavily processed, customers cannot assess tactile quality or durability, driving high purchase hesitation.",
+            "primary_workaround_used": "Ordering multiple units or colors to test durability/quality at home and following strict washing protocols to test post-purchase longevity.",
+            "severity_ranking": "High"
+        },
+        {
+            "problem_name": "Styling & Occasion Versatility Ambiguity",
+            "description": "Customers struggle to visualize how a wishlisted item integrates into their existing wardrobe or fits specific personal styling use-cases, leading to items remaining saved indefinitely without a clear buying trigger.",
+            "primary_workaround_used": "Cross-checking external community platforms like Telegram posts and social channels for deal validation and real-world styling ideas.",
+            "severity_ranking": "Medium"
+        }
+    ],
+    "opportunity_hypotheses": [
+        {
+            "hypothesis_title": "Interactive Fit Assistant & Garment Measurement Overlay",
+            "rationale": "Providing precision garment dimensions alongside personalized sizing recommendations based on user-owned apparel will eliminate sizing uncertainty and reduce reliance on manual tape measurements.",
+            "target_metric": "Wishlist-to-Cart Conversion",
+            "impact_score": "High"
+        },
+        {
+            "hypothesis_title": "Tactile Quality Badging & HD Video Fabric Showcases",
+            "rationale": "Integrating micro-video clips focusing on fabric stretch, thickness, and weave texture, coupled with verified post-wash durability ratings, will bridge the online tactile gap.",
+            "target_metric": "Wishlist-to-Cart Conversion",
+            "impact_score": "High"
+        },
+        {
+            "hypothesis_title": "Wishlist 'Complete the Look' & Occasion-Based Styling Bundles",
+            "rationale": "Showing algorithmic outfit pairing directly within the wishlist view will give users instant clarity on styling utility, accelerating purchase intent.",
+            "target_metric": "Wishlist-to-Cart Conversion Rate",
+            "impact_score": "Medium"
+        }
+    ]
+}

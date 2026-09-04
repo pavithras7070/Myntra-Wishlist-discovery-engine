@@ -1,0 +1,93 @@
+{
+    "Sizing, Fit & Measurement Confidence": {
+        "Total Count": 37,
+        "Sources Count": 4,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 1.49,
+        "Relevance Score": 1.49,
+        "Common Workarounds": "Using measuring tapes and notes apps, Measured the pants themselves and compared to personal measurements",
+        "Raw Counts By Source": {
+            "App Store": 8,
+            "Myntra Web": 5,
+            "Reddit": 12,
+            "YouTube": 12
+        },
+        "Addressing": "Semantic Need: Sizing, Fit & Measurement Confidence"
+    },
+    "Product Representation & Accuracy": {
+        "Total Count": 15,
+        "Sources Count": 4,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 1.27,
+        "Relevance Score": 1.27,
+        "Common Workarounds": "None recorded",
+        "Raw Counts By Source": {
+            "App Store": 4,
+            "Myntra Web": 2,
+            "Reddit": 6,
+            "YouTube": 3
+        },
+        "Addressing": "Semantic Need: Product Representation & Accuracy"
+    },
+    "Material Quality & Durability": {
+        "Total Count": 31,
+        "Sources Count": 5,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 1.65,
+        "Relevance Score": 1.65,
+        "Common Workarounds": "searching for soft material, Ordered two more units in different colours to test durability and followed washing protocol",
+        "Raw Counts By Source": {
+            "App Store": 5,
+            "Myntra Web": 9,
+            "Google Play Store": 1,
+            "Reddit": 15,
+            "YouTube": 1
+        },
+        "Addressing": "Semantic Need: Material Quality & Durability"
+    },
+    "Price & Value Assessment": {
+        "Total Count": 15,
+        "Sources Count": 5,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 1.0,
+        "Relevance Score": 1.0,
+        "Common Workarounds": "Comparing prices of every product",
+        "Raw Counts By Source": {
+            "App Store": 2,
+            "Myntra Web": 1,
+            "Google Play Store": 1,
+            "Reddit": 7,
+            "YouTube": 4
+        },
+        "Addressing": "Semantic Need: Price & Value Assessment"
+    },
+    "Styling Use-Case & Comparison": {
+        "Total Count": 23,
+        "Sources Count": 4,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 1.0,
+        "Relevance Score": 1.0,
+        "Common Workarounds": "Checked all telegram posts",
+        "Raw Counts By Source": {
+            "App Store": 1,
+            "Myntra Web": 3,
+            "Reddit": 6,
+            "YouTube": 13
+        },
+        "Addressing": "Semantic Need: Styling Use-Case & Comparison"
+    },
+    "Platform Trust & Return Policies": {
+        "Total Count": 18,
+        "Sources Count": 3,
+        "Evidence Strength Indicator": "Strong",
+        "Severity Score": 2.0,
+        "Relevance Score": 2.0,
+        "Common Workarounds": "Relying on customer photos over models, Track cost of a particular item over a week",
+        "Raw Counts By Source": {
+            "Google Play Store": 2,
+            "Reddit": 13,
+            "YouTube": 3
+        },
+        "Addressing": "Semantic Need: Platform Trust & Return Policies"
+    }
+}

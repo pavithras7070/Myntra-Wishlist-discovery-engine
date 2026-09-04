@@ -1,0 +1,506 @@
+{
+    "metrics": {
+        "total_conversations": 1135,
+        "relevant_conversations": 539,
+        "relevance_percentage": 47.48898678414097,
+        "shopping_stages": {
+            "Unknown": 212,
+            "Purchase": 174,
+            "Product Evaluation": 64,
+            "Consideration": 4,
+            "Discovery": 12,
+            "post-purchase": 3,
+            "Wishlist/Save": 6,
+            "Cart": 4,
+            "Pre-Purchase": 60
+        },
+        "intent_frequencies": {
+            "comparison": 13,
+            "price monitoring": 4,
+            "Evaluation": 30,
+            "Discovery": 30
+        },
+        "barrier_frequencies": {
+            "Unknown": 462,
+            "size_selection_uncertainty": 1,
+            "price_sensitivity": 1,
+            "material_availability_uncertainty": 1,
+            "material_quality_uncertainty": 1,
+            "bottomwear_sizing_mismatch": 1,
+            "suboptimal_fitting": 1,
+            "color_discrepancy": 1,
+            "poor_print_quality": 1,
+            "uncertain_print_longevity": 1,
+            "collar_rib_deformation": 1,
+            "garment_shape_loss": 1,
+            "saggy_neckline": 1,
+            "technical_outage": 1,
+            "return_fee": 1,
+            "price_value": 2,
+            "Sizing, Fit & Measurement Confidence": 9,
+            "Material Quality & Durability": 10,
+            "Platform Trust & Return Policies": 9,
+            "Product Representation & Styling Use-Case": 2,
+            "visual_representation_uncertainty": 1,
+            "product_image_mismatch": 1,
+            "strict_return_policy": 1,
+            "quality_uncertainty": 1,
+            "missing_product_link": 3,
+            "out_of_stock": 1,
+            "unclear_seasonal_suitability": 1,
+            "missing_size_info": 1,
+            "body_type_fit_uncertainty": 1,
+            "unreachable_product_link": 1,
+            "waist_fit_uncertainty": 1,
+            "misleading_size_labeling": 1,
+            "measurement_methodology_confusion": 1,
+            "unusual_dimension_confusion": 1,
+            "complex_size_charts": 1,
+            "misleading_waist_definition": 1,
+            "category_transition_sizing": 1,
+            "missing_garment_measurements": 1,
+            "vanity_sizing_discrepancy": 1,
+            "size_inconsistency_across_brands": 1,
+            "lack_of_size_availability": 1,
+            "body_measurement_confusion": 1,
+            "mistrust_in_size_guide": 1,
+            "fear_of_wrong_size": 1,
+            "price_quality_tradeoff_uncertainty": 1,
+            "unrealistic_price_quality_expectation": 1,
+            "refund_policy_confusion": 1,
+            "lack_of_tryon_visualization": 1,
+            "checkout_payment_confusion": 1
+        },
+        "uncertainty_frequencies": {
+            "Why the product color appears different from the picture": 1,
+            "return policy (non‑returnable designation)": 1,
+            "Uncertainty about the availability of wool or pure cotton fabrics": 1,
+            "How long the prints will last": 1,
+            "Durability of the collar after washing": 1,
+            "long-term durability": 1,
+            "True lowest price of a product due to misleading discount claims": 1,
+            "Whether the clothes will fit or be liked without the safety net of free returns": 1,
+            "Size fit (looseness of large size)": 1,
+            "Price competitiveness": 1,
+            "quality": 1,
+            "Size accuracy and product appearance matching the app": 1,
+            "Accurate Size Selection": 9,
+            "Fabric Quality Verification": 10,
+            "Hassle-Free Returns": 9,
+            "Visualizing the Product": 2,
+            "Which platform is cheap and good besides Meesho": 1,
+            "cannot see actual product appearance due to missing real images": 1,
+            "Whether the product matches the photo": 1,
+            "Whether it's safe to buy without return/exchange; how to return if product is damaged": 1,
+            "Ajio's product quality": 1,
+            "Where to find the product link": 1,
+            "availability of the top": 1,
+            "where to get the product link": 1,
+            "whether the product is suitable for summer": 1,
+            "Which size of the top is appropriate": 1,
+            "Unable to locate product link": 1,
+            "Uncertain where to find the product link": 1,
+            "Where to find the top": 1,
+            "Link availability": 1,
+            "Whether the listed dimensions correspond to actual product dimensions": 1,
+            "How to correctly measure inseam given varying length standards": 1,
+            "What height is needed to wear long full pants with a 45 inch inseam?": 1,
+            "Which single measurement number should be used to order pants": 1,
+            "Correct waist measurement": 1,
+            "how to pick a size for men's pants": 1,
+            "Unsure about dress fit due to missing measurement information": 1,
+            "Why a size 36 pant fits while waist measurement is 44": 1,
+            "whether sizes match the description consistently": 1,
+            "how to measure themselves": 1,
+            "How to correctly measure the inseam on their body": 1,
+            "Reliability of size chart measurements": 1,
+            "Confusion about measurement instructions requiring help versus doing it yourself": 1,
+            "How to correctly measure waist and hips": 1,
+            "Which size will fit given waist 46 inches and length 27 inches": 1,
+            "quality of normal non-brand products": 1,
+            "where to find cheap and quality product": 1,
+            "price (which product is cheapest)": 1,
+            "how the pink dress looks when worn": 1,
+            "Unclear where to find the shirt link": 1,
+            "How to use Myntra credit for future orders / cash on delivery": 1
+        },
+        "workaround_frequencies": {
+            "searching for soft material": 1,
+            "Ordered two more units in different colours to test durability and followed washing protocol": 1,
+            "Keep the item in the wishlist to wait for restock": 1,
+            "Scrolling up and down through the list to find desired products.": 1,
+            "Track cost of a particular item over a week": 1,
+            "Scrolling down through the wishlist to find specific products": 1,
+            "Raised concern with Myntra Customer Care team": 1,
+            "Raised a return request": 1,
+            "Exchanged large size with medium size": 1,
+            "Uninstalling the app": 2,
+            "Requested an exchange": 1,
+            "Returning items": 1,
+            "Comparing prices of every product": 1,
+            "Ordering the same product multiple times": 1,
+            "raised an exchange request": 1,
+            "Used the 'Size Finder' feature to avoid guessing sizes": 1,
+            "Switching to Flipkart for returns and purchases": 1,
+            "Cancelled the products": 1,
+            "Created three complaints": 1,
+            "Waited for days to find the item at a discounted price": 1,
+            "Contacted customer care": 1,
+            "Uninstalled the app and decided to use other online shopping options": 1,
+            "Comparing prices on Flipkart": 1,
+            "Using measuring tapes and notes apps": 3,
+            "Relying on customer photos over models": 2,
+            "Checked all telegram posts": 1,
+            "Measured the pants themselves and compared to personal measurements": 1,
+            "need someone else to help measure": 1,
+            "Returned the item and reordered a different size (size 34)": 1,
+            "Measured waist and length with an accurate measuring tape": 1,
+            "File a complaint against the retailer in consumer court": 1
+        },
+        "wishlist_mentions": 0,
+        "decision_relevance_distribution": {
+            "Unknown": 539
+        },
+        "wishlist_relevance_distribution": {
+            "General Shopping Evidence": 392,
+            "Indirect Wishlist-Relevant Evidence": 109,
+            "Direct Wishlist Evidence": 8,
+            "Direct Mention": 30
+        },
+        "barrier_co_occurrences": {
+            "Material Quality": {
+                "Uncertainty about the availability of wool or pure cotton fabrics": 1,
+                "Ajio's product quality": 1
+            },
+            "Print Durability": {
+                "How long the prints will last": 1
+            },
+            "Washing Durability": {
+                "Durability of the collar after washing": 1
+            },
+            "App Reliability": {
+                "True lowest price of a product due to misleading discount claims": 1
+            },
+            "Return Policy Trust": {
+                "Whether the clothes will fit or be liked without the safety net of free returns": 1
+            },
+            "Price Transparency": {
+                "Price competitiveness": 1
+            },
+            "Sizing, Fit & Measurement Confidence": {
+                "Accurate Size Selection": 9
+            },
+            "Material Quality & Durability": {
+                "Fabric Quality Verification": 10
+            },
+            "Platform Trust & Return Policies": {
+                "Hassle-Free Returns": 9
+            },
+            "Product Representation & Styling Use-Case": {
+                "Visualizing the Product": 2
+            },
+            "Affordable Platform": {
+                "Which platform is cheap and good besides Meesho": 1
+            },
+            "Product Representation": {
+                "cannot see actual product appearance due to missing real images": 1,
+                "Whether the product matches the photo": 1,
+                "how the pink dress looks when worn": 1
+            },
+            "Return Policy Assurance": {
+                "Whether it's safe to buy without return/exchange; how to return if product is damaged": 1
+            },
+            "Product Discovery": {
+                "Where to find the product link": 1,
+                "availability of the top": 1,
+                "Unable to locate product link": 1,
+                "Where to find the top": 1,
+                "Link availability": 1,
+                "Unclear where to find the shirt link": 1
+            },
+            "Styling Use Case": {
+                "whether the product is suitable for summer": 1,
+                "How to correctly measure inseam given varying length standards": 1
+            },
+            "Size Selection": {
+                "Which size of the top is appropriate": 1,
+                "Whether the listed dimensions correspond to actual product dimensions": 1,
+                "What height is needed to wear long full pants with a 45 inch inseam?": 1,
+                "Which single measurement number should be used to order pants": 1,
+                "how to pick a size for men's pants": 1,
+                "Unsure about dress fit due to missing measurement information": 1,
+                "Why a size 36 pant fits while waist measurement is 44": 1,
+                "Which size will fit given waist 46 inches and length 27 inches": 1
+            },
+            "Personal Suitability": {
+                "Correct waist measurement": 1
+            },
+            "Size Consistency": {
+                "whether sizes match the description consistently": 1
+            },
+            "Measurement Guidance": {
+                "How to correctly measure the inseam on their body": 1
+            },
+            "Accurate Fit Guide": {
+                "How to correctly measure waist and hips": 1
+            },
+            "Value for Money": {
+                "where to find cheap and quality product": 1
+            },
+            "Store Credit Usage": {
+                "How to use Myntra credit for future orders / cash on delivery": 1
+            }
+        },
+        "pre_purchase_behavior_types": {
+            "Pure Shopping Intent": 392,
+            "Explicit Barrier": 117,
+            "Implicit Uncertainty": 30
+        },
+        "semantic_customer_needs": {
+            "Sizing, Fit & Measurement Confidence": {
+                "count": 37,
+                "workarounds": {
+                    "Using measuring tapes and notes apps": 3,
+                    "Measured the pants themselves and compared to personal measurements": 1,
+                    "Measured waist and length with an accurate measuring tape": 1
+                },
+                "sources": {
+                    "App Store": 8,
+                    "Myntra Web": 5,
+                    "Reddit": 12,
+                    "YouTube": 12
+                },
+                "avg_severity": 1.4864864864864864,
+                "avg_relevance": 1.4864864864864864
+            },
+            "Product Representation & Accuracy": {
+                "count": 15,
+                "workarounds": {},
+                "sources": {
+                    "App Store": 4,
+                    "Myntra Web": 2,
+                    "Reddit": 6,
+                    "YouTube": 3
+                },
+                "avg_severity": 1.2666666666666666,
+                "avg_relevance": 1.2666666666666666
+            },
+            "Material Quality & Durability": {
+                "count": 31,
+                "workarounds": {
+                    "searching for soft material": 1,
+                    "Ordered two more units in different colours to test durability and followed washing protocol": 1
+                },
+                "sources": {
+                    "App Store": 5,
+                    "Myntra Web": 9,
+                    "Google Play Store": 1,
+                    "Reddit": 15,
+                    "YouTube": 1
+                },
+                "avg_severity": 1.6451612903225807,
+                "avg_relevance": 1.6451612903225807
+            },
+            "Price & Value Assessment": {
+                "count": 15,
+                "workarounds": {
+                    "Comparing prices of every product": 1
+                },
+                "sources": {
+                    "App Store": 2,
+                    "Myntra Web": 1,
+                    "Google Play Store": 1,
+                    "Reddit": 7,
+                    "YouTube": 4
+                },
+                "avg_severity": 1.0,
+                "avg_relevance": 1.0
+            },
+            "Styling Use-Case & Comparison": {
+                "count": 23,
+                "workarounds": {
+                    "Checked all telegram posts": 1
+                },
+                "sources": {
+                    "App Store": 1,
+                    "Myntra Web": 3,
+                    "Reddit": 6,
+                    "YouTube": 13
+                },
+                "avg_severity": 1.0,
+                "avg_relevance": 1.0
+            },
+            "Platform Trust & Return Policies": {
+                "count": 18,
+                "workarounds": {
+                    "Track cost of a particular item over a week": 1,
+                    "Relying on customer photos over models": 2
+                },
+                "sources": {
+                    "Google Play Store": 2,
+                    "Reddit": 13,
+                    "YouTube": 3
+                },
+                "avg_severity": 2.0,
+                "avg_relevance": 2.0
+            }
+        }
+    },
+    "segments": [
+        {
+            "segment_id": "seg_1_&",
+            "segment_name": "Sizing & Fit Validators",
+            "description": "Shoppers who lack trust in digital size charts and rely on physical workarounds or cross-checking before buying.",
+            "size": 43,
+            "percentage": 7.977736549165121,
+            "dominant_barriers": [
+                "Price-Drop Anticipation",
+                "Occasion Matching & Wardrobe Coordination",
+                "Size/Fit Paralysis"
+            ],
+            "dominant_behaviors": [
+                "Consideration",
+                "Discovery",
+                "Product Evaluation"
+            ],
+            "representative_quotes": [
+                "Very good fitting and classy look",
+                "Perfect size fitting",
+                "Superb fit and breathable cloth. Must buy"
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        },
+        {
+            "segment_id": "seg_2_&",
+            "segment_name": "Quality & Durability Researchers",
+            "description": "Shoppers who hesitate to buy because they need to verify fabric quality and durability via reviews.",
+            "size": 32,
+            "percentage": 5.936920222634509,
+            "dominant_barriers": [
+                "Fabric & Material Skepticism"
+            ],
+            "dominant_behaviors": [
+                "Product Evaluation",
+                "Pre-Purchase",
+                "Discovery"
+            ],
+            "representative_quotes": [
+                "Fabric of this trouser is so good.Thanks myntra",
+                "Amazing Saree and lovely fabric",
+                "I really love the texture and feel of it!"
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        },
+        {
+            "segment_id": "seg_3_&",
+            "segment_name": "Styling & Comparison Seekers",
+            "description": "Users who treat the wishlist as a mood board to visually mix-and-match items and compare outfits.",
+            "size": 19,
+            "percentage": 3.525046382189239,
+            "dominant_barriers": [
+                "Checkout / App Friction"
+            ],
+            "dominant_behaviors": [
+                "Product Evaluation",
+                "Pre-Purchase",
+                "Discovery"
+            ],
+            "representative_quotes": [
+                "This kurta looks really good with good quality",
+                "Best waffle tee ever! It excels in everything the price, the fit, the fabric quality and the structure. This waffle tee has got a cropped fit yet oversized from chest and sleeves which makes it hella comfortable and since it has a crewneck collar it doesnt make you look sloppy. The fit makes your body look more broader and muscular. The fabric quality is just perfect had some bits of threads but not concerning. You should definitely buy it considering its a trending piece right now. Tip: Pair it with a baggy jeans of your liking its so fricking versatile.",
+                "Best waffle tee ever! It excels in everything the price, the fit, the fabric quality and the structure. This waffle tee has got a cropped fit yet oversized from chest and sleeves which makes it hella comfortable and since it has a crewneck collar it doesnt make you look sloppy. The fit makes your body look more broader and muscular. The fabric quality is just perfect had some bits of threads but not concerning. You should definitely buy it considering its a trending piece right now. Tip: Pair it with a baggy jeans of your liking its so fricking versatile."
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        },
+        {
+            "segment_id": "seg_4_trust",
+            "segment_name": "Platform Trust Skeptics",
+            "description": "Users who abandon purchases to the wishlist due to fear of difficult return policies or platform unreliability.",
+            "size": 18,
+            "percentage": 3.339517625231911,
+            "dominant_barriers": [
+                "Return Hassle Anxiety",
+                "Checkout / App Friction"
+            ],
+            "dominant_behaviors": [
+                "Consideration",
+                "Product Evaluation",
+                "Pre-Purchase"
+            ],
+            "representative_quotes": [
+                "The app has been down since 2-3 days. Cant view my orders saved in the wishlist nor can search any new product. Tried reaching out to customer care, but doesn't look like they are attending any complaints. Return policy and shopping experience of this app no doubt has been good. However for first time users, you need to be aware & keep a track of cost of a particular item over a week to know what exactly is the lowest price you can buy that product for. They can fool yoy saying its discounted!",
+                "myntra now introduced a return fee, if the customer doesn't like it. this very bad experience. That's why I don't trust the app now. Previously I used to order 10 cloths and select 3-4 out of them. now it makes a difficult decision in purchasing clothes in myntra. HIGHLY DISSATISFIED.",
+                "I also pick only clothes with return policy. Next is checking customer photos wearing the dress because I need to see how it looks on actual bodies rather than mannequins or models."
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        },
+        {
+            "segment_id": "seg_5_&",
+            "segment_name": "Representation & Accuracy Checkers",
+            "description": "Users who hold items in the wishlist because they need to verify product description and visual appearance accuracy.",
+            "size": 15,
+            "percentage": 2.782931354359926,
+            "dominant_barriers": [
+                "Occasion Matching & Wardrobe Coordination",
+                "Discovery Overwhelm (Paradox of Choice)",
+                "Visual Misrepresentation Fear"
+            ],
+            "dominant_behaviors": [
+                "Product Evaluation",
+                "Pre-Purchase"
+            ],
+            "representative_quotes": [
+                "Jaisa pick mein dekha bilkul same best quality",
+                "Myntra is one of the most trusted fashion store jondikhtahaiwobita hai HD images so easy to figure out the fabric and texture",
+                "Perfect fitting as Describe and  fabric also smooth. Suggest to buy."
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        },
+        {
+            "segment_id": "seg_6_&",
+            "segment_name": "Price & Value Evaluators",
+            "description": "High-intent shoppers who use the wishlist strictly as a staging area to monitor price fluctuations and sales.",
+            "size": 15,
+            "percentage": 2.782931354359926,
+            "dominant_barriers": [
+                "Price-Drop Anticipation"
+            ],
+            "dominant_behaviors": [
+                "Cart",
+                "Product Evaluation",
+                "Pre-Purchase"
+            ],
+            "representative_quotes": [
+                "As per price quality is too good",
+                "I look forward to all the deals that come on Myntra . It’s a one stop shop for kids to adults all clothes , accessories and footwears ! Love it 💕",
+                "Guys I must admit that Nostrum has created a masterpiece in fitting and fashion with this tshirt because once you don it you would feel confident and composed as the material is of world class and the merchandise is made available at our doorstep at a throwaway price by our favourite Myntra"
+            ],
+            "barrier_standardized_category": "Multiple (Persona Grouping)",
+            "barrier_raw_evidence": null,
+            "decision_relevance": null,
+            "wishlist_relevance": null,
+            "evidence_strength": "Strong"
+        }
+    ],
+    "contradictions": []
+}
