@@ -51,9 +51,9 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
 
     client = Groq(api_key=api_key)
 
-    # We use a fast, large-context model
-    model_name = "qwen/qwen3.8-27b"
-    context_str = json.dumps(context_data, default=str)[:20000] # Safe limit to stay strictly under 8000 TPM limit
+    # We use a fast, large-context model with high free-tier limits
+    model_name = "llama-3.1-8b-instant"
+    context_str = json.dumps(context_data, default=str)[:20000] # Safe limit to stay strictly under TPM limit
     
     user_prompt = f"Context Data:\n{context_str}\n\nUser Question:\n{question}"
 
@@ -65,6 +65,7 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.2,
+            max_tokens=800,
             response_format={"type": "json_object"}
         )
         content = completion.choices[0].message.content
