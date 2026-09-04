@@ -65,6 +65,7 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.2,
+            max_tokens=900,
             response_format={"type": "json_object"}
         )
         content = completion.choices[0].message.content
