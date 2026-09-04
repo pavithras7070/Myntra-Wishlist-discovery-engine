@@ -19,7 +19,7 @@ CRITICAL RULES:
 19. If explicitly asked for solution ideas, label them clearly as: "Potential solutions based on identified friction."
 20. Go beyond surface-level classification. Identify the UNDERLYING NEED (e.g. if they ask for size charts, the need is "Confidence that the product will fit").
 21. Be highly confident in your analysis when patterns exist in the data.
-22. If the user's question is entirely unrelated to the provided research data or fashion e-commerce (e.g., asking about cooking, general trivia, etc.), set 'is_out_of_domain' to true and return EXACTLY this message in 'direct_answer': "I can only answer questions related to Myntra's e-commerce data and user wishlist behavior. Please ask a question related to fashion commerce or product insights."
+22. If the user's question is entirely unrelated to the provided research data or fashion e-commerce (e.g., asking about cooking, general trivia, etc.), set 'is_out_of_domain' to true and provide a polite rejection in 'direct_answer'.
 
 You must reply with a valid JSON object strictly matching this schema:
 {
@@ -51,9 +51,9 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
 
     client = Groq(api_key=api_key)
 
-    # We use a fast, large-context model with high free-tier limits
-    model_name = "llama-3.1-8b-instant"
-    context_str = json.dumps(context_data, default=str)[:20000] # Safe limit to stay strictly under TPM limit
+    # We use a fast, large-context model
+    model_name = "llama3-70b-8192"
+    context_str = json.dumps(context_data, default=str)[:20000] # Safe limit to stay strictly under 8000 TPM limit
     
     user_prompt = f"Context Data:\n{context_str}\n\nUser Question:\n{question}"
 
@@ -65,7 +65,6 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.2,
-            max_tokens=800,
             response_format={"type": "json_object"}
         )
         content = completion.choices[0].message.content
