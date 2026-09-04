@@ -52,7 +52,7 @@ def process_ask_ai_request(question: str, context_data: Dict[str, Any]) -> Dict[
     client = Groq(api_key=api_key)
 
     # We use a fast, large-context model
-    model_name = "llama3-70b-8192"
+    model_name = "qwen/qwen3.8-27b"
     context_str = json.dumps(context_data, default=str)[:20000] # Safe limit to stay strictly under 8000 TPM limit
     
     user_prompt = f"Context Data:\n{context_str}\n\nUser Question:\n{question}"
